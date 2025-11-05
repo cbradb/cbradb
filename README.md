@@ -1,3 +1,7 @@
+<img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/9ddff268-83b2-457c-9185-ae405b06ac2e" />
+
+
+
 ## Hello there 👋
 
 I'm Bradford (he/him), a fine-dining cook turned IT student. 
