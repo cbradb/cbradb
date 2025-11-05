@@ -8,7 +8,7 @@ I'm Bradford (he/him), a fine-dining cook turned IT student.
 
 I’m looking for a tech internship, and I'm open to anything from breaking down hardware for recycling, to configuring new machines, or anything else I haven't heard of yet.
 
-As an experienced cook, I'm quite failiar with critical and technical work following strict protocols, so it all feels like a great fit so far.
+As an experienced cook, I'm quite familiar with critical and technical work following strict protocols, so it all feels like a great fit so far.
 
 Some quick facts:
 - 🔭 I’m working on my Associate's Degree in Computer Information Systems at WCC.
