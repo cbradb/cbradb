@@ -14,7 +14,7 @@ Some quick facts:
 - 🔭 I’m working on my Associate's Degree in Computer Information Systems at WCC.
 - 🌱 Currently I'm learning all the inner-workings of Cisco devices, and how to build, secure, and manage a network of any size.
 - 👯 I’m always open to collaborate on any side project, or even a small business venture.
-- 💬 I'm also always open to help you work on your billiards game, it's a whole magical world of minutae.
+- 💬 I'm also always open to help you work on your billiards game, it's a whole magical world of minutiae.
 - 📫 Email: bboyce3492@student.whatcom.edu
 - ⚡ Fun fact: Ransomware is a growing industry
 
