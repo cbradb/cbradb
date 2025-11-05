@@ -6,7 +6,7 @@
 
 I'm Bradford (he/him), a fine-dining cook turned IT student. 
 
-I’m looking for help with finding a tech internship, and open to anything from breaking down hardware for recycling, to configuring new machines, or anything else I haven't heard of yet.
+I’m looking for a tech internship, and open to anything from breaking down hardware for recycling, to configuring new machines, or anything else I haven't heard of yet.
 
 As an experienced cook, a I'm quite failiar with critical and technical work following strict protocols, so it all feels like a great fit so far.
 
