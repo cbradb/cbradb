@@ -14,4 +14,4 @@ Some quick facts:
 - 📫 Email: bboyce3492@student.whatcom.edu
 - ⚡ Fun fact: Ransomware is a growing industry
 
-Take Care!
+See you around!
